@@ -8,7 +8,7 @@
 
 ## Links
 
-* Live Example - https://robhitt.github.io/tic-tac-toe-js
+* Live Example - https://Darshujain.github.io/tic-tac-toe-js
 * Github - https://www.github.com/robhitt/tic-tac-toe-js
 
 ## Installation
